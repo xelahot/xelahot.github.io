@@ -8,7 +8,7 @@ Author: xelahot
 Section: Tweaks
 
 Filename: ./debs/xelahottest_1.0.0.deb
-Depiction: https://xelahot.github.io/depictions/com.yourcompany.xelahottest
+Depiction: https://xelahot.github.io/depictions/?p=com.yourcompany.xelahottest
 Size: 9908
 MD5sum: aa81a2126e2c6701a1873247238eee31
 SHA1: 2e427830c1940bbabea25bd13467e49d5d3d42ec
