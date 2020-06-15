@@ -1,5 +1,5 @@
 Package: com.yourcompany.xelahottest
-Version: 0.0.1-2+debug
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: xelahot <useDiscord@instead.com>
 Filename: ./debs/xelahottest.deb
