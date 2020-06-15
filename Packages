@@ -3,10 +3,10 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: xelahot
 Filename: ./debs/xelahottest_1.0.0.deb
-Size: 9902
-MD5sum: b180a5d663aac4a693ca2a976e25fddc
-SHA1: fe632dbbd2e259d140b8f324f8433c80d511496f
-SHA256: 89bdea15202701a1e8181bb26ca11b80424ac798f8d868fbd2121c328f87a496
+Size: 9894
+MD5sum: 19c74e1056a8063925417a2a45cb7319
+SHA1: 3edebdb210469605f152ad7148941a1b4c9d815e
+SHA256: 99146456b606e7e95e66d22de28b16707b387cbb8cda84fdbc1412f451e32130
 Section: Tweaks
 Description: This is a test package that shows an alert after every respring!
 Author: xelahot
