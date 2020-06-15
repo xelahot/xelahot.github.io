@@ -1,0 +1,35 @@
+.myCardContainer .card-footer{
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+.myCardContainer .card-footer input[value = "Buy"],
+.myCardContainer .card-footer input[value = "Acheter"]{
+	margin-right: 15px;
+}
+
+.lastProject{
+	margin-bottom: 32px;
+}
+
+
+div.projectInfoContainer{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+#projectInfo{
+	border-radius: 4px;
+	position: fixed;
+	display: none;
+	/*opacity: 0;*/ /*0 / 1*/
+	/*visibility: visible;*/ /*hidden / visible*/
+	z-index: 1000;
+	top: 78px;
+}
+
+#projectInfo>div{
+	padding: 0;
+}

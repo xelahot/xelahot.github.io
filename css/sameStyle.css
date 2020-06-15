@@ -1,0 +1,126 @@
+/* Remove scrollbar */
+.invisible{
+    visibility: hidden;
+}
+
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0px;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+
+body{
+	margin-top: 78px; /* Remove if navbar is not fixed-top */
+}
+
+#scrollUpBtn {
+  display: inline-block;
+  background-color: #333;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 4px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color .3s, 
+    opacity .5s, visibility .5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+}
+#scrollUpBtn::after {
+  content: "\f077";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 2em;
+  line-height: 50px;
+  color: #fff;
+}
+#scrollUpBtn:hover {
+  cursor: pointer;
+  background-color: #555;
+}
+#scrollUpBtn:active {
+  background-color: #555;
+}
+#scrollUpBtn.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+nav{
+	margin-bottom: 25px; /* Useless with fixed-top*/
+}
+
+/* Medium screens adjustment AKA menu hamburger nav*/
+@media only screen 
+and (min-width : 992px){
+	.nav-item.firstItem{
+		padding-right: 25px;
+	}
+
+	.nav-item.dropdown{
+		padding-left: 25px;
+	}
+
+	.nav-item.dropdown a.nav-link{
+		border-left-width: 1px;
+		border-left-style: solid;
+		border-left-color: gray;
+		padding: 0px 8px 0px 25px;
+		margin: 8px 0px 8px 0px;
+		width: 105px; /* Fix language name moving other nav items when changed */
+	}
+}
+
+/* Fix dropdown bottom margin // this fix looks weird on iOS */
+.dropdown.show{
+	/*margin-bottom: 8px;*/
+}
+
+.myCardContainer hr{
+	margin-top: 32px;  
+	margin-bottom: 32px;
+}
+
+.myCardContainer div.card{
+	margin-left: 10px; /* have padding of 15px already */
+	margin-right: 10px;
+	/*background-color: rgba(220, 220, 220, 0.2);  Light gray */
+}
+
+.myCardContainer div.card-footer{
+	margin: 0px;
+	padding: 15px;
+	/*background-color: #343a40; /* Strong gray */
+}
+
+h2{
+	text-align: center;
+	margin: auto;
+}
+
+dt{
+	margin-bottom: 10px;
+}
+
+a, a:active, a:focus{
+	color: black;
+}
+
+a:hover{
+	color: #343a40;
+}
+
+.btn{
+	width: 200px;
+}
+
+.ts_buy{
+    margin-right: 12px;   
+}

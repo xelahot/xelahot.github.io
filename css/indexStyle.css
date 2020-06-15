@@ -1,0 +1,106 @@
+.myCardContainer div img{
+	float: left;
+	margin-right: 25px;
+	padding: 0px;
+	max-width: 35%;
+	border-radius: 5px;
+	border: solid #DEDEDE 1px;
+}
+
+.myCardContainer div#textAbout{
+	margin-top: 0px;
+	margin-bottom: 120px;
+}
+
+.myCardContainer div#textAbout div{
+	display: block;
+	line-height: 30px;
+}
+
+.myCardContainer h5, .myCardContainer .card{
+	margin-bottom: 25px;
+}
+
+.myCardContainer dl a, .myCardContainer dl a:active, .myCardContainer dl a:focus{
+	color: black;
+	font-weight: 600;
+	text-decoration: underline;
+}
+
+.btnContact{
+	position: absolute; 
+	bottom: 0;
+	right: 10px;
+	float: right;
+	/*display: flex;
+	flex-direction: row-reverse;*/
+}
+
+/* Small screens adjustment */
+@media only screen 
+and (max-width : 768px){
+	.myCardContainer div img{
+		float: none;
+		margin-right: 0px;
+		max-width: 100%;
+		padding: 0px;
+	}
+	.myCardContainer div#textAbout{
+		margin-top: 25px;
+		margin-bottom: 25px;
+	}
+}
+
+/* Med-Small screens adjustment (add space at botom of container for contact btn) */
+@media only screen 
+and (max-width : 500px){
+	.myCardContainer .card-body{
+		padding-bottom: 80px;
+	}
+	.btnContact{ 
+		bottom: -28px;
+	}
+}
+
+/* Medium screens adjustment */
+@media only screen and (min-width : 768px) and (max-width : 992px){
+	.myCardContainer div#textAbout{
+		margin-top: 0px;
+		margin-bottom: 20px;
+	}
+}
+
+/* Medium-Large screens adjustment */
+@media only screen and (min-width : 992px) and (max-width : 1200px){
+	.myCardContainer div#textAbout{
+		margin-top: 0px;
+		margin-bottom: 30px;
+	}
+}
+
+/* Large screens adjustment */
+@media only screen and (min-width : 1200px){
+	.myCardContainer div#textAbout{
+		margin-top: 0px;
+		margin-bottom: 40px;
+	}
+	
+	.myCardContainer div hr{
+		display: none;
+	}
+}
+
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
