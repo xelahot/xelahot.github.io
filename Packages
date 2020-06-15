@@ -2,7 +2,7 @@ Package: com.yourcompany.xelahottest
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: xelahot <useDiscord@instead.com>
-Filename: /xelahottest.deb
+Filename: ./debs/xelahottest.deb
 Size: 9902
 MD5sum: b180a5d663aac4a693ca2a976e25fddc
 SHA1: fe632dbbd2e259d140b8f324f8433c80d511496f
