@@ -6,8 +6,8 @@ Maintainer: xelahot <useDiscord@instead.com>
 Author: xelahot <useDiscord@instead.com>
 Section: Tweaks
 Depends: firmware (>11.0), mobilesubstrate
-Version: 1.0.0
+Version: 1.0.0-1
 
-Filename: ./debs/com.yourcompany.xelahottest_1.0.0_iphoneos-arm.deb
-Size: 6694
-MD5sum: cfa0f66d78b8e4e626a68f0f7c0202ae
+Filename: ./debs/com.yourcompany.xelahottest_1.0.0-1_iphoneos-arm.deb
+Size: 6702
+MD5sum: 20f6041a1117bcb2a62d778acc9d2ee1
