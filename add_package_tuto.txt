@@ -1,0 +1,24 @@
+1. In control file, have :
+	Version: 1.0
+
+2. In Makefile have :
+	PACKAGE_VERSION = $(THEOS_PACKAGE_BASE_VERSION)
+
+3. Build tweak
+
+4. On Repo, add .deb to the "debs" folder
+
+5. In the "Packages" file, add an empty space after another tweak 
+	(everything for the same tweak must not have extra spaces).
+
+	Use the same stuff that is in the control file (the one before build).
+	BUT you must also add extra options if some were generated in the .deb :
+		Installed-Size: 104
+	Might need to extract the .deb from Filza to see the generated control 
+	file because it doesnt always show on windows.
+	Then after everything is there, you need to add these :
+		Filename: /debs/com.yourcompany.xelahottest_1.0_iphoneos-arm.deb
+		Size: 6694
+		MD5sum: 36f379295c15ef879664fca7192c8e94
+
+6. Compress the "Packages" file to a bzip2 archive
