@@ -2,12 +2,13 @@ Package: com.yourcompany.xelahottest
 Name: xelahot test tweak
 Architecture: iphoneos-arm
 Description: This is a test package that shows an alert after every respring!
-Maintainer: xelahot <useDiscord@instead.com>
-Author: xelahot <useDiscord@instead.com>
+Maintainer: xelahot
+Author: xelahot
 Section: Tweaks
 Depends: firmware (>11.0), mobilesubstrate
-Version: 1.0.0-1
+Version: 1.0
+Homepage: www.xelahot.com
 
-Filename: ./debs/com.yourcompany.xelahottest_1.0.0-1_iphoneos-arm.deb
-Size: 6702
-MD5sum: 20f6041a1117bcb2a62d778acc9d2ee1
+Filename: ./debs/com.yourcompany.xelahottest_1.0_iphoneos-arm.deb
+Size: 6694
+MD5sum: 36f379295c15ef879664fca7192c8e94
