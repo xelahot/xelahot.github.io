@@ -7,7 +7,7 @@ Maintainer: System Administrator
 Author: xelahot
 Section: Tweaks
 
-Filename: ./debs/xelahottest_1.0.0.deb
+Filename: ./debs/com.yourcompany.xelahottest_1.0.0_iphoneos-arm
 Size: 6662
 MD5sum: 4fc458ecf29fba86d3f69fe66f166b18
 SHA1: ab9ee6a2c5ef62e9934d78a5466c9d5dc5008996
