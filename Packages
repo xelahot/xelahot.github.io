@@ -5,9 +5,8 @@ Description: This is a test package that shows an alert after every respring!
 Maintainer: System Administrator
 Author: xelahot
 Section: Tweaks
-Version: 1.0.0-2
-Installed-Size: 104
 
-Filename: ./xelahottest.deb
+Version 1.0.
+Filename: ./debs/xelahottest_1.0.0.deb
 Size: 6662
-MD5sum: 30c6ae0cd41f345a6a2effe3d28292fa
+MD5sum: fd8a8b08148eca2ed3fe0513d1ee0ea8
