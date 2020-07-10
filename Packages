@@ -1,13 +1,13 @@
 Package: com.xelahot.libxelahot
 Name: xelahot hacks
-Depends: mobilesubstrate
-Version: 1.1.3
+Depends: mobilesubstrate, preferenceloader
+Version: 1.1.4
 Architecture: iphoneos-arm
 Description: This tweak allows you to hack multiple iOS games. In the settings application, you can see which games you have installed on your phone that are hackable. You can also buy buy a license for one of these from my website. For a full list of hacks I made, please visit the link in the settings.
 Maintainer: xelahot
 Author: xelahot
 Section: Tweaks
-Installed-Size: 412
-Filename: /debs/com.xelahot.libxelahot_1.1.3_iphoneos-arm.deb
-Size: 93752
-MD5sum: 68315ce515a42b92caafd547ed4994ef
+Installed-Size: 528
+Filename: /debs/com.xelahot.libxelahot_1.1.4_iphoneos-arm.deb
+Size: 214498
+MD5sum: ad00ce19c57bfd809b9e5112fc0efb6d
