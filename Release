@@ -1,8 +1,8 @@
-Origin: xelahot's repository
-Label: xelahot's repository
+Origin: Xelahot's Repository
+Label: Xelahot's Repository
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: xelahot's repository
+Description: Xelahot's repository
