@@ -1,0 +1,15 @@
+Package: com.xelahot.libxelahot
+Name: Xelahot Extensions
+Depends: preferenceloader
+Version: 1.1.11
+Architecture: iphoneos-arm
+Description: This tweak allows you to install extensions on your favorite iPhone video games.
+Maintainer: xelahot
+Author: xelahot
+Section: Tweaks
+Installed-Size: 568
+Filename: /debs/com.xelahot.libxelahot_1.1.11_iphoneos-arm.deb
+Size: 93010
+MD5sum: a1cc27a85b8c940e9e3c93a6d98a84e2
+SHA1: f0b8ccf66bb5e624bed752e87c071f8a0153baa3
+SHA256: db03ce3519ef5425f0a9d8861e0a36cc52257f8fb62a8f40ce0a3b9494c6c593
