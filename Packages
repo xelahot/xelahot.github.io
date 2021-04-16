@@ -1,0 +1,15 @@
+Package: com.xelahot.xelahotagario
+Name: Xelahot - Agar.io
+Architecture: iphoneos-arm
+Description: Xelahot mod menu for Agar.io for free!
+Maintainer: xelahot
+Author: xelahot
+Section: Tweaks
+Conflicts: com.xelahot.libxelahot
+Version: 1.2
+Installed-Size: 392
+Filename: /debs/com.xelahot.xelahotagario_1.2_iphoneos-arm.deb
+Size: 69108
+MD5sum: 3572ca2e1b63a73b83467796bec6ddfd
+SHA1: 840e79af6b4a7e6423b3c908a81020345b189fdd
+SHA256: 7c402602f6ad3ce2113e64cccdcca1ba393379ad4ea242ef073d8fa9636abef2
