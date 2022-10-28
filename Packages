@@ -6,10 +6,10 @@ Maintainer: xelahot
 Author: xelahot
 Section: Tweaks
 Conflicts: com.xelahot.libxelahot
-Version: 1.3.1
-Installed-Size: 388
-Filename: /debs/com.xelahot.xelahotagario_1.3.1_iphoneos-arm.deb
-Size: 69660
-MD5sum: ecb3e6ef98150022d81207a068c22e51
-SHA1: 4e6cfa7241519a208002fae6e991f52a053612ea
-SHA256: 99b8124cceec5b18edd45d47a6d732d8e8fd98f69fb4689f5941d0e7ee17ee67
+Version: 1.3.2
+Installed-Size: 588
+Filename: /debs/com.xelahot.agario_1.3.2_iphoneos-arm.deb
+Size: 108956
+MD5sum: 8ae104ec6b4e9d8691d477aab6843261
+SHA1: 4782af89436a17cb6e16a22b049b11096ee95455
+SHA256: fb93eef7fcd61f1f3853f3897829de9c0c8fe8688b730771e6ee3fc4ecf48bb9
