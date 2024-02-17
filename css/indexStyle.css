@@ -21,6 +21,10 @@
 	margin-bottom: 25px;
 }
 
+.myCardContainer a{
+	margin-bottom: 10px;
+}
+
 .myCardContainer dl a, .myCardContainer dl a:active, .myCardContainer dl a:focus{
 	color: black;
 	font-weight: 600;
