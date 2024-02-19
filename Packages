@@ -1,4 +1,20 @@
 Package: com.xelahot.xelahotagario
+Name: Xelahot - Agar.io (rootless)
+Architecture: iphoneos-arm64
+Description: Xelahot mod menu for Agar.io for free!
+Maintainer: xelahot
+Author: xelahot
+Section: Tweaks
+Conflicts: com.xelahot.libxelahot
+Version: 1.3.4
+Installed-Size: 404
+Filename: /debs/com.xelahot.xelahotagario_1.3.4_iphoneos-arm64.deb
+Size: 72496
+MD5sum: 3a49e2f0d05878aa11b793c0ad13ad82
+SHA1: e3e8b2cffe49291d865cac6ccc4b6de55ef1e998
+SHA256: bfd964b5076d34e6a11372e66cabbb9ec34b1fe157f85c6145fc305b884816d3
+
+Package: com.xelahot.xelahotagario
 Name: Xelahot - Agar.io
 Architecture: iphoneos-arm
 Description: Xelahot mod menu for Agar.io for free!
@@ -6,10 +22,10 @@ Maintainer: xelahot
 Author: xelahot
 Section: Tweaks
 Conflicts: com.xelahot.libxelahot
-Version: 1.3.3
-Installed-Size: 392
-Filename: /debs/com.xelahot.xelahotagario_1.3.3_iphoneos-arm.deb
-Size: 70208
-MD5sum: 3a8fc8299ea8db88848ef55692a627cb
-SHA1: 54785756917fece5970f62872a485770f50e5782
-SHA256: c615b986580bfcbb06e99ee884d128d37409099a868f09c7f63861b9d89f7d39
+Version: 1.3.4
+Installed-Size: 404
+Filename: /debs/com.xelahot.xelahotagario_1.3.4_iphoneos-arm.deb
+Size: 72144
+MD5sum: ec8420d71273d2d7ed1012d42dc7cdcf
+SHA1: 404c9d30fb8b5bab7c3ae1ae78f94753415781d1
+SHA256: d5eddf9a58af53cd501aa79259716514b7005660851b6cdc8a13d458be0f79dc
