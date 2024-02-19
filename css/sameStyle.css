@@ -121,6 +121,10 @@ a:hover{
 	width: 200px;
 }
 
+.btn-sm:not(:last-child){
+	margin-bottom: 10px;
+}
+
 .ts_buy{
     margin-right: 12px;   
 }
