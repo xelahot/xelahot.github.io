@@ -45,3 +45,19 @@ Size: 72560
 MD5sum: d25ed1bb5af647eee30de13f0b4e17bf
 SHA1: 03f0481f2852e64e6da900161518b3ae81e4a6d4
 SHA256: 2206779430e1e2d286218528f2c517f9bd3d0bbece22011a62cad831e2ac6499
+
+Package: com.xelahot.spotifyopensonplaylists
+Name: SpotifyOpensOnPlaylists (rootless)
+Architecture: iphoneos-arm64
+Description: iOS tweak for jailbroken devices. Makes Spotify 8.9.68 open on the playlists tab.
+Maintainer: xelahot
+Author: xelahot
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 88
+Filename: /debs/com.xelahot.spotifyopensonplaylists_1.0.0_iphoneos-arm64.deb
+Size: 2376
+MD5sum: 87045cf7549aaa38d8623f5a17d674ac
+SHA1: 76cbd98e22a22d4d36c536bec9049da7e8f33b8c
+SHA256: d08a8d360a6668c34b7b28db5e6eae5a661b3ece1c5005c1da6d90f9d87f65ef
+Homepage: https://xelahot.github.io/
