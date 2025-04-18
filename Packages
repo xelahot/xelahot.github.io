@@ -5,8 +5,7 @@ Description: Xelahot mod menu for Agar.io for free!
 Maintainer: xelahot
 Author: xelahot
 Section: Tweaks
-Conflicts: com.xelahot.libxelahot
-Version: 1.3.4
+Version: 1.3.5
 Installed-Size: 404
 Filename: /debs/com.xelahot.xelahotagario_1.3.4_iphoneos-arm64.deb
 Size: 72496
@@ -21,8 +20,7 @@ Description: Xelahot mod menu for Agar.io for free!
 Maintainer: xelahot
 Author: xelahot
 Section: Tweaks
-Conflicts: com.xelahot.libxelahot
-Version: 1.3.4
+Version: 1.3.5
 Installed-Size: 404
 Filename: /debs/com.xelahot.xelahotagario_1.3.4_iphoneos-arm.deb
 Size: 72144
@@ -37,8 +35,7 @@ Description: Xelahot mod menu for Agar.io for free!
 Maintainer: xelahot
 Author: xelahot
 Section: Tweaks
-Conflicts: com.xelahot.libxelahot
-Version: 1.3.4
+Version: 1.3.5
 Installed-Size: 404
 Filename: /debs/com.xelahot.xelahotagario_1.3.4_iphoneos-arm64e.deb
 Size: 72560
