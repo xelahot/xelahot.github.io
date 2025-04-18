@@ -8,10 +8,10 @@ Section: Tweaks
 Version: 1.3.5
 Installed-Size: 404
 Filename: /debs/com.xelahot.xelahotagario_1.3.5_iphoneos-arm64.deb
-Size: 72496
-MD5sum: 3a49e2f0d05878aa11b793c0ad13ad82
-SHA1: e3e8b2cffe49291d865cac6ccc4b6de55ef1e998
-SHA256: bfd964b5076d34e6a11372e66cabbb9ec34b1fe157f85c6145fc305b884816d3
+Size: 72284
+MD5sum: 830d0f127ba55ad6c94cf3acc63c04ec
+SHA1: 670e1ca04752700adfa780d1121ee35b97eeea66
+SHA256: ad9443006f36af2b3ebcb4eba13831e01f514f3a7e4c0d7acd5359816cbcb9aa
 
 Package: com.xelahot.xelahotagario
 Name: Xelahot - Agar.io
@@ -24,9 +24,9 @@ Version: 1.3.5
 Installed-Size: 404
 Filename: /debs/com.xelahot.xelahotagario_1.3.5_iphoneos-arm.deb
 Size: 72144
-MD5sum: ec8420d71273d2d7ed1012d42dc7cdcf
-SHA1: 404c9d30fb8b5bab7c3ae1ae78f94753415781d1
-SHA256: d5eddf9a58af53cd501aa79259716514b7005660851b6cdc8a13d458be0f79dc
+MD5sum: 0f6d223a24773bdda38192f94607e699
+SHA1: 073a2efdbe8f234d7e2b6df5a05b9534d07efe80
+SHA256: d1e6e1a3cd2915d42742b1a02441b2195f9e4232204c95ec259f0aa04f6c8231
 
 Package: com.xelahot.xelahotagario (rootless roothide)
 Name: Xelahot - Agar.io
@@ -38,10 +38,10 @@ Section: Tweaks
 Version: 1.3.5
 Installed-Size: 404
 Filename: /debs/com.xelahot.xelahotagario_1.3.5_iphoneos-arm64e.deb
-Size: 72560
-MD5sum: d25ed1bb5af647eee30de13f0b4e17bf
-SHA1: 03f0481f2852e64e6da900161518b3ae81e4a6d4
-SHA256: 2206779430e1e2d286218528f2c517f9bd3d0bbece22011a62cad831e2ac6499
+Size: 72260
+MD5sum: 9bec638d5eb976cd9f30a7b6c24e85c1
+SHA1: efdaf436a6e37e1083076ebeef86fb150186fcfa
+SHA256: da9e509959ae3f9c36ec8631d48d6c88d7a4a36374a3fdd59b821fb0281d0935
 
 Package: com.xelahot.spotifyopensonplaylists
 Name: SpotifyOpensOnPlaylists (rootless)
