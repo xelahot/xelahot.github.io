@@ -58,3 +58,37 @@ MD5sum: 87045cf7549aaa38d8623f5a17d674ac
 SHA1: 76cbd98e22a22d4d36c536bec9049da7e8f33b8c
 SHA256: d08a8d360a6668c34b7b28db5e6eae5a661b3ece1c5005c1da6d90f9d87f65ef
 Homepage: https://xelahot.github.io/
+
+Package: com.xelahot.libxelahot
+Name: libXelahot
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: An iOS library for jailbroken devices used in my tweaks
+Maintainer: Xelahot
+Author: Xelahot
+Section: System
+Tag: role::developer
+Homepage: https://xelahot.github.io/
+Installed-Size: 144
+Filename: /debs/com.xelahot.libxelahot_1.0.0_iphoneos-arm64.deb
+Size: 19032
+MD5sum: ec5d54a3ebb3ca9727657e1d9fcc6df6
+SHA1: a655fe624ccaf0723419b71b1f4c3c90ef72dd9f
+SHA256: 27f99164dd9e0905fc8098a3b6844f4018278be70554ad1eed86636a87a1c07f
+
+Package: com.xelahot.memedit
+Name: MemEdit
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: An iOS tool for jailbroken devices to read/write memory with a UI.
+Maintainer: xelahot
+Author: xelahot
+Section: Tweaks
+Homepage: https://xelahot.github.io/
+Depends: preferenceloader, com.xelahot.libxelahot
+Installed-Size: 420
+Filename: /debs/com.xelahot.memedit_1.0.0_iphoneos-arm64.deb
+Size: 81234
+MD5sum: 68057bab579004895be2c7491e8b8241
+SHA1: 1781b469eae57db3e56af9b43ede895551ead24f
+SHA256: ed2ed0f7b8eaa9c0cfcd3802426a7f3fb436236fcb41cdb532b95c246a2da464
